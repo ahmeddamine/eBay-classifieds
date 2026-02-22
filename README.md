@@ -35,3 +35,4 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
 - Strategy: `docs/test-strategy.md`
 - Run unit/component tests: `npm test`
 - Run E2E tests: `npm run test:e2e`
+.
